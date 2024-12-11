@@ -1,4 +1,4 @@
 - java/c/c++/python/assembly(intel, linux)/c# programmer
 - frc 1678 software robot programmer
-- minecraft modder & plugin maintainer (ign/discord = jaq or j^3)
+- minecraft modder & plugin maintainer (ign/discord = jaq & j^3 & theGreatPleco)
 - arch linx fan
