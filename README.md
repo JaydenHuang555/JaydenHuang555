@@ -5,3 +5,4 @@
 - Davis Senior High School Coding club member
 - minecraft modder & plugin maintainer (ign/discord = jaq & j^3 & theGreatPleco)
 - arch linx fan
+- addicted to learning historical facts 
