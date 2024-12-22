@@ -1,7 +1,7 @@
 - java/c/c++/python/assembly(intel, linux)/c# programmer
 - @frc1678 software robot programmer
-- founder and alumni president of Emerson Junior High Intermediate Programming Club
-- Davis Senior High School Game Dev Club vice president
+- founder and alumni president of the Emerson Junior High Intermediate Programming Club
+- vice president and co-founder of the Davis Senior High School Game Dev Club 
 - Davis Senior High School Coding club member
 - minecraft modder & plugin maintainer (ign/discord = jaq & j^3 & theGreatPleco)
 - arch linx fan
