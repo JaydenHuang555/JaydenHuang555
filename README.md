@@ -1,4 +1,4 @@
-- java/c/c++/python/assembly(intel, linux)/c# programmer
+- java/c/c++/rust/python/assembly(intel, linux)/c# programmer
 - @frc1678 software robot programmer
 - founder and alumni president of the Emerson Junior High Intermediate Programming Club
 - vice president and co-founder of the Davis Senior High School Game Dev Club 
